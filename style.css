@@ -1,0 +1,53 @@
+body {
+  background-color: #f3e5d8;
+}
+p {
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+div.container {
+  border-radius: 20px;
+  margin-left: 30em;
+  margin-top: 10em;
+  width: 800px;
+  height: fit-content;
+  background-color: white;
+}
+h1.main-heading {
+  text-align: left;
+}
+
+#card {
+  width: 800px;
+  padding-top: 20px;
+  padding-left: 100px;
+  border-color: 2px 2px 2px black;
+}
+
+img {
+  width: 600px;
+  border-radius: 20px;
+}
+
+section.preparation-time {
+  background-color: #fff7fc;
+  width: 600px;
+  border-radius: 20px;
+  padding: 10px 5px;
+}
+
+span.highlight {
+  font-weight: bold;
+}
+
+section.ingredients {
+  border-bottom: 1px black;
+}
